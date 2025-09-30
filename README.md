@@ -50,11 +50,13 @@ In the future, LawConnect will also integrate an **AI-powered chatbot** to assis
 ---
 
 ## 📂 Project Structure
+```
 LawConnect/
 │── backend/ # Spring Boot application (APIs, services, database)
 │── frontend/ # React + TypeScript + Tailwind UI
 │── database/ # MySQL schema & migrations
 │── README.md # Documentation
+```
 ---
 
 ## ⚡ Getting Started  
