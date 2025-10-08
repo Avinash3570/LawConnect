@@ -71,7 +71,7 @@ cd LawConnect
 cd backend
 ./mvnw spring-boot:run
 ```
-###3. Setup Frontend (React + TypeScript + Tailwind)
+### 3. Setup Frontend (React + TypeScript + Tailwind)
 ```bash
 cd frontend
 npm install
@@ -85,7 +85,7 @@ npm run dev
 <img width="1879" height="834" alt="Screenshot 2025-09-30 215022" src="https://github.com/user-attachments/assets/2358a3d6-7ca0-4846-ac5c-7f6147c48388" />
 <img width="1888" height="840" alt="Screenshot 2025-09-30 215130" src="https://github.com/user-attachments/assets/7f481a53-c749-499e-8fa3-db7eff65a545" />
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 🤖 AI-powered Chatbot for legal Q&A
 
@@ -96,7 +96,7 @@ npm run dev
 📊 Analytics Dashboard for case insights
 
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
